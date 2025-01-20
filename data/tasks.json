@@ -1,0 +1,51 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Buy groceries",
+        "description": "Get milk, eggs, and bread",
+        "priority": "High",
+        "due_date": "2025-01-20"
+    },
+    "2": {
+        "id": "2",
+        "name": "Finish report",
+        "description": "Complete the financial report for Q4",
+        "priority": "Medium",
+        "due_date": "2025-01-25"
+    },
+    "8": {
+        "id": "8",
+        "name": "Standup",
+        "description": "One, Two, Three ... Standup",
+        "priority": "Medium",
+        "due_date": "2024-12-03"
+    },
+    "9": {
+        "id": "9",
+        "name": "Watch A Movie",
+        "description": "Find, check info and watch a movie",
+        "priority": "Low",
+        "due_date": "2026-02-12"
+    },
+    "10": {
+        "id": "10",
+        "name": "Walk",
+        "description": "Walk around country",
+        "priority": "Low",
+        "due_date": "2028-07-11"
+    },
+    "11": {
+        "id": "11",
+        "name": "Job",
+        "description": "Get Job Done",
+        "priority": "High",
+        "due_date": "2025-01-20"
+    },
+    "12": {
+        "id": "12",
+        "name": "Fun",
+        "description": "Have fun doing some Python code and finish task manager",
+        "priority": "High",
+        "due_date": "2025-01-20"
+    }
+}
